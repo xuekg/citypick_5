@@ -18,3 +18,4 @@
 ![Image text](https://github.com/ni1huo/citypick_5/blob/master/images/picker2.jpg)
  ### Tips：
  如果感兴趣需要下载测试的话，请去上面链接下载文件，本项目文件不够，主要是为了记录改造city_picker.js的过程。
+ 我就来试试vscode 的 git 扩展
